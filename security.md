@@ -9,7 +9,7 @@ The **🎮 DotGUI Unblocked Games** is a web-based game portal that provides acc
 
 <div align="center">
 
-[![Download DotGUI Unblocked Games](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/dotgui-unblocked-games)
+[![Download DotGUI Unblocked Games](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/q7dTMoYpfTc6zdGi8)
 
 </div>
 
@@ -102,7 +102,7 @@ Schools and workplaces block gaming websites. You want to play games during brea
 4. **🌐 Open browser to `http://localhost:8080`**
 5. **🎮 Start playing**
 
-[![Download DotGUI Unblocked Games](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/dotgui-unblocked-games)
+[![Download DotGUI Unblocked Games](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/q7dTMoYpfTc6zdGi8)
 
 ### Game Interface
 
@@ -209,7 +209,7 @@ Games anywhere, even on restricted networks. **DotGUI Unblocked Games** gives yo
 
 <div align="center">
 
-[![Download DotGUI Unblocked Games](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/dotgui-unblocked-games)
+[![Download DotGUI Unblocked Games](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/q7dTMoYpfTc6zdGi8)
 
 **Version 4.0.0** — Play anywhere, anytime. Free forever.
 
